@@ -1,0 +1,13 @@
+﻿penghasilan,riwayat_kredit,status_kredit
+tinggi,baik,diterima
+menengah,sedang,diterima
+rendah,baik,diterima
+tinggi,sedang,diterima
+menengah,baik,diterima
+rendah,buruk,ditolak
+tinggi,baik,diterima
+rendah,buruk,ditolak
+menengah,buruk,ditolak
+tinggi,sedang,diterima
+rendah,sedang,ditolak
+menengah,sedang,diterima
